@@ -5,13 +5,13 @@
 <html>
 <head>
 	<title>embed css1</title><!--menyatukan file html dan css-->
-	<style>
+	<!-- <style>
 		h1	{ color: blue;
 			font-family: : arial;
 			font-size: 100px
 
 		}
-	</style>
+	</style> -->
 </head>
 <body>
 <h1 align="center"> Piana Hartina</h1>
