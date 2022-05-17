@@ -1,0 +1,18 @@
+/*CSS*/
+
+h1 {
+	font-family: arial, verdana, sans-serif;
+	color: red;
+	font-size: 100px;
+	font-weight: normal;
+	font-variant: small-caps;
+	font-style: italic;
+}
+p {
+	font-family: georgia, serif;
+	line-height: 10px;
+}
+h4 { font: italic smallcaps bold 10px/50px arial, verdana, sans-serif; 
+
+}
+
