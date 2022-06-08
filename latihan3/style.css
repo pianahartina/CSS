@@ -1,0 +1,9 @@
+body {
+	/* background-color: gold; /*memberikan warna pada background di area body*/
+	/* background-image: url(gambar/Tulips.jpg); /*jika gambar ada di dalam folder gambar maka langsung ketik nama foldernya lalu ketik nama gambar, namun jika diluar folder gambar tersebut maka ketik ../ baru ketik nama folder latihan3 (latihan3) adl folder tempat meletakkan semua file tersebut*/
+	/* background-repeat: repeat-x; /*mengatur jenis pengulangan pada gambar, jika ingin tidak ada pengulangan gambar maka no-repeat*/
+	/* background-position: top center;/*ini dapat digunakan dan akan terlihat hasilnya jika background-repeat nya yaitu no-repeat*/
+	/*ke4 property bacjground diatas dapat disingkat menjadi*/
+
+	background: green url(gambar/Koala.jpg) center center no-repeat;
+}
